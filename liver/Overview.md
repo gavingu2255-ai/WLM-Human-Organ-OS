@@ -1,4 +1,4 @@
-#WLM Structural Blueprint: The Liver (Liver OS Module) working progress
+# WLM Structural Blueprint: The Liver (Liver OS Module) working progress
 Outline — High‑Density Structural Architecture Version
 ##1. The Liver as a Structural Domain
 
@@ -15,7 +15,7 @@ Core Identity:
 
 “The Liver is the system’s routing engine: it receives density, reorganizes it, and returns it to circulation.”
 
-##2. The Liver’s Structural Role in the Human OS
+## 2. The Liver’s Structural Role in the Human OS
 2.1 Density Processing
 
 Converts raw density into usable structural energy
@@ -40,7 +40,7 @@ Encodes systemic habits (WLM: -1 Moon × 6th House)
 
 Acts as the “cache layer” of the body
 
-##3. The Liver’s Internal Architecture (WLM Structural Layers)
+## 3. The Liver’s Internal Architecture (WLM Structural Layers)
 3.1 Input Layer (Portal System)
 
 Receives unstructured density
@@ -65,7 +65,7 @@ Returns structured energy to circulation
 
 Maintains system-wide stability
 
-##4. The Liver in the WLM Six-Dimensional Matrix
+## 4. The Liver in the WLM Six-Dimensional Matrix
 4.1 Planet Offset
 
 Mars (+2): Action, routing, metabolic push
@@ -116,7 +116,7 @@ Compression Layer
 
 Connection Layer
 
-##5. The Liver’s Structural Logic
+## 5. The Liver’s Structural Logic
 5.1 The Principle of Density Redistribution
 
 Density cannot be destroyed; it must be rerouted
@@ -135,7 +135,7 @@ Repeated patterns become structural habits
 
 The liver encodes these habits into metabolic logic
 
-##6. The Liver’s Failure Modes (Structural Degradation Patterns)
+## 6. The Liver’s Failure Modes (Structural Degradation Patterns)
 6.1 Overload Pattern (Mars +2 × Saturn −3)
 
 Excess density
@@ -160,7 +160,7 @@ Misrouting of density
 
 Systemic confusion
 
-##7. The Liver’s Regeneration Logic (Unique Structural Feature)
+## 7. The Liver’s Regeneration Logic (Unique Structural Feature)
 7.1 Regeneration as Structural Recursion
 
 The liver regenerates by re-running its own structural code
@@ -183,7 +183,7 @@ Clears structural memory
 
 Resets system equilibrium
 
-##8. The Liver in the Human Body OS
+## 8. The Liver in the Human Body OS
 8.1 Position in the OS Architecture
 
 The Liver is the “System Kernel”
@@ -214,7 +214,7 @@ Maintains coherence
 
 Ensures continuity
 
-##9. Summary: The Liver’s Structural Essence
+## 9. Summary: The Liver’s Structural Essence
 Identity: System Router
 
 Function: Density Redistribution
